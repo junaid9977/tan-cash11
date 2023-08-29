@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "924987381756",
+    "project_id": "all-in-one-97ba7",
+    "storage_bucket": "all-in-one-97ba7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924987381756:android:1b84114cf588329acb0479",
+        "android_client_info": {
+          "package_name": "com.sobujtec.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924987381756-519geu8eo9kasihts6t5c6ek20vt9nuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3MiFHQC8nCODizX99MrooWbnuwC0AuoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924987381756-519geu8eo9kasihts6t5c6ek20vt9nuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924987381756:android:2729e805fe7854becb0479",
+        "android_client_info": {
+          "package_name": "com.sobujtec.tuduprim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924987381756-519geu8eo9kasihts6t5c6ek20vt9nuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3MiFHQC8nCODizX99MrooWbnuwC0AuoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924987381756-519geu8eo9kasihts6t5c6ek20vt9nuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
