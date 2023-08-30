@@ -712,17 +712,17 @@
 
                                 <TextView
                                     android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:layout_marginTop="10dp"
-                                    android:text="@string/rewards"
+                                    android:layout_height="54dp"
+                                    android:layout_marginTop="4dp"
+                                    android:text="@string/withdraw"
                                     android:textColor="@color/white"
-                                    android:textSize="24sp"
+                                    android:textSize="50sp"
                                     android:textStyle="bold" />
 
                                 <TextView
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
-                                    android:text="Convert your coins to gift cards"
+                                    android:text="Convert your coins to Bkash/Nagad"
                                     android:textColor="@color/white"
                                     android:textSize="14sp" />
 
